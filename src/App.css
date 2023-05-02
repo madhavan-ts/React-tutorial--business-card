@@ -1,0 +1,9 @@
+.container{
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #242424;
+  min-height: fit-content;
+ 
+  margin: 5rem 0;
+}
